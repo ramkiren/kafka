@@ -17,7 +17,7 @@
 	`bin/kafka-topics.sh --list --zookeeper localhost:2181`
 
 4. Clone this repo  
-	`git clone https://github.com/thejasbabu/kafka-example.git`
+	`https://github.com/ramkiren/kafka.git`
 
 5. Compile and package the project  
 	`mvn clean compile package`
